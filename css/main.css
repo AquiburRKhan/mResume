@@ -1,0 +1,33 @@
+.navbar {
+    background-color: #ffffff;
+    border-color: #ffffff;
+    margin: 35px 0;
+}
+
+
+#bootstrap-atext> li> a {
+    color: #555;
+    font-size: 1.2em;
+    font-weight: 200;
+}
+#bootstrap-atext> li> a:hover {
+    color: #ED020F;
+    -webkit-transition: all .2s;
+    -moz-transition: all .2s;
+    -o-transition: all .2s;
+    -ms-transition: all .2s;
+    transition: all .2s;
+}
+
+
+.container-fluid {
+    padding-right: 15px;
+    padding-left: 90px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: #fff;
+}
+.badge {
+    padding: 4px 8px;
+    background-color: #31708F;
+}
